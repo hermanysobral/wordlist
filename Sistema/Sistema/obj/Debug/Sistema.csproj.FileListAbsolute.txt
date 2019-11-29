@@ -1,0 +1,13 @@
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.Form1.resources
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.pdb
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.Apresentacao.BemVindo.resources
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.Apresentacao.CadastreSe.resources
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.Apresentacao.CadastrarPalavra.resources
+C:\Users\Jorge Hermany Sobral\source\repos\Sistema\Sistema\obj\Debug\Sistema.Apresentacao.ExibirPalavras.resources
